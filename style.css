@@ -1,0 +1,100 @@
+body{
+    background-color: white;
+    margin-top:-20px;
+    margin-left:110px;
+    background: linear-gradient(90deg, rgb(27, 27, 27) 0%, rgba(121,121,121,1) 50%, rgb(182, 182, 182) 100%);
+    font-family: sans-serif;
+
+}
+#herb{
+    height: 160px;
+    float:left;
+}
+
+#glowa{
+    width: 1366px;
+    height: 160px;
+    background-color:gray;
+    font-size: 70pt;
+}
+
+#nawigacja{
+    width: 300px;
+    height: 528px;
+    float:left;
+    overflow: hidden;
+    background-color: darkgrey;
+    color: red;
+    font-size: 18pt;
+    text-align: center;
+    line-height: 25px;
+    
+}
+#artykul{
+    background-color: silver;
+    width: 1066px;
+    height:528px;
+    overflow: hidden;
+    float: left;
+    color: black;
+    font-size: 25pt;
+
+}
+
+#stopka{
+    clear: both;
+    background-color: rgb(128, 128, 128);
+    width: 1366px;
+    height:80px;
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    
+}
+a:hover{
+    text-decoration: none;
+    border-style: dotted;
+    
+}
+a:visited{
+    color: darkblue;
+}
+
+a:link{
+    text-decoration: none;
+    color: darkblue;
+    
+}
+span{
+    font-size: 35px;
+    text-decoration: none;
+}
+#naglowek{
+    text-align: center;
+    color: black;
+    font-weight: 700;
+}
+#zdj1{
+    position: absolute;
+    left: 650px;
+    bottom: 50px;
+}
+li{
+    font-size: 24px;
+    line-height: 35px
+}
+.anna{
+    height: 270px;
+}
+#kosciol{
+    height: 260px;
+    position: absolute;
+    left: 730px;
+    bottom: 50px;
+}
+#muzeum{
+    height: 210px;
+    position: absolute;
+    left: 720px;
+    bottom: 40px;
+}
